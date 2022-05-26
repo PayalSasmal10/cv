@@ -56,6 +56,10 @@ hr {
     
 }
 
+ .middle-container {
+   margin: 100px 0; 
+}
+
 .profile-para {
     color: #40514E;
 }
@@ -131,7 +135,6 @@ hr {
 
 .footer-link{
     color: #11999E;
-    line-height: 2;
     padding: 10px;
 }
 
@@ -140,9 +143,7 @@ hr {
 }
 
 /*...........ID selector.................. */
-/* .middle-container {
-    
-}
+
 
 
 
